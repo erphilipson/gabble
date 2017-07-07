@@ -1,1 +1,1 @@
-A twitter-esque social media app
+Gabble app
